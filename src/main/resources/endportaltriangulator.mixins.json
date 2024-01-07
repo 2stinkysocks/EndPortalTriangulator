@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.twostinkysocks.endportaltriangulator.mixins",
+  "compatibilityLevel": "JAVA_16",
+  "client": [
+    "SoundMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
